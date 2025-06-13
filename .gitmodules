@@ -1,0 +1,9 @@
+[submodule "api-clients"]
+	path = api-clients
+	url = https://github.com/AdrianeRuggiero/PayeTonKawa_api-clients.git
+[submodule "api-products"]
+	path = api-products
+	url = https://github.com/AdrianeRuggiero/PayeTonKawa_api-products.git
+[submodule "api-orders"]
+	path = api-orders
+	url = https://github.com/AdrianeRuggiero/PayeTonKawa_api-orders.git
